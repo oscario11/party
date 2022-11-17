@@ -1,0 +1,54 @@
+.titulo1{
+    background-color: goldenrod;
+    font-size: 2rem;
+    color: rgb(94, 67, 67);
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik Bubbles', cursive;
+}
+.titulo2{
+    font-family: 'Grenze Gotisch', cursive;
+}
+.titulo3{
+    font-family: 'Caveat', cursive;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: lime;
+    color: black;
+}
+body{
+    background-image: url(https://www.gifss.com/comics/simpson/images/gif-simpson-17.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th{
+    background-color: grey;
+    color: greenyellow;
+}
+.table td:hover{
+    background-color: darkolivegreen;
+    color: floralwhite;
+}
+.table tr{
+    background-color: silver;
+    color: greenyellow;
+}
+caption{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 4rem;
+}
+.table th:hover{
+    background-color: rgb(233, 18, 18);
+    color: black;
+}
